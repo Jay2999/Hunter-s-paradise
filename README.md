@@ -2,7 +2,7 @@
 
 Place raw assets (for example .blend files) in External Assets folder
 
-Import blueprint / code classes to Blueprints folder
+Add blueprint / code classes to Blueprints folder
 
 Import materials to Materials folder
 
